@@ -14,7 +14,7 @@
 
 &nbsp;
 
-<a href="https://benjamin-otto.github.io/" target="_blank">Check out my portfolio site! ↗</a>
+<a href="https://benjamin-otto.github.io/">Check out my Flutter portfolio!</a>
 
 <!--
 **benjamin-otto/benjamin-otto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
