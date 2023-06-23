@@ -12,6 +12,10 @@
 - 📫 How to reach me: <a href="mailto:benjaminotto@pm.me?subject=Let's Talk!&body=Hello Benjamin, I'm interested in working on a Flutter project together.">benjaminotto@pm.me</a>
 - ⚡ Fun fact: I enjoy learning about and speaking Thai.
 
+&nbsp;
+
+<a href="https://benjamin-otto.github.io/" target="_blank">Check out my portfolio site! ↗</a>
+
 <!--
 **benjamin-otto/benjamin-otto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
