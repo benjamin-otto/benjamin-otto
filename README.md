@@ -1,6 +1,6 @@
 
 <p>  
-  <img src="https://github.com/benjamin-otto/benjamin-otto/blob/main/images/flutter_logo.png?raw=true" alt="Flutter" height="100"/>
+  <img src="https://github.com/benjamin-otto/benjamin-otto/blob/main/images/flutter_logo.png?raw=true" alt="Flutter" height="80"/>
   <img src="https://github.com/benjamin-otto/benjamin-otto/blob/main/images/dev.png?raw=true" alt="Dev Guy" height="100"/>
 </p>
 
